@@ -16,6 +16,9 @@ build/
 # Jupyter
 .ipynb_checkpoints/
 
+# Claude Code   
+.claude/
+
 # Data
 data/
 
